@@ -9,13 +9,13 @@ public class Demo {
 	}
 
 }
-class AB
+class demo1
 {
 	int i;
 	char c='C';
 	float f;
 	
-	AB()    //constructor
+	demo1()    //constructor
 	{
 		f=5.55f;
 	
